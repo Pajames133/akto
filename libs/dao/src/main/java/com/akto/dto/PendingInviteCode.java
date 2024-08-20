@@ -2,10 +2,10 @@ package com.akto.dto;
 
 import org.bson.types.ObjectId;
 
-public class PendingInviteCode {
+public class PendingInviteCode {rose.tagak@gmail.com
 
-    private ObjectId id;
-    private String inviteCode;
+    private ObjectId id;rose
+    private String inviteCode;text me code
     public static final String INVITE_CODE = "inviteCode";
     private int issuer;
     private String inviteeEmailId;
